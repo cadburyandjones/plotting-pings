@@ -1,0 +1,8 @@
+urls = [
+    "https://www.google.com",
+    "https://www.bbc.co.uk",
+    "https://www.yahoo.com"
+]
+ping_interval = 60 # time between pings in seconds
+plot_window = 20 # number of ping data points to show at once
+csv_filename = "ping_data.csv" # where to save csv data
